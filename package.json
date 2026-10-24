@@ -1,0 +1,12 @@
+{
+  "name": "studybridge-hussain-ai",
+  "version": "2.0.0",
+  "description": "StudyBridge (Powered by Hussain AI & Built on the FlowPlan Architecture) — AI Study Planner, Practice Engine, Doubt Resolver & RAG Copilot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node verify-studybridge.js"
+  },
+  "author": "Muhammad Hussain & FlowPlan Architecture",
+  "license": "MIT"
+}
